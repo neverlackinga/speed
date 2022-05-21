@@ -16,8 +16,8 @@
     end
     
     function onSelected(mouse)
-        mouse.KeyDown:connect(function(q) if q:lower()=="z"then onButton1Down(mouse)end end)
-        mouse.KeyUp:connect(function(q) if q:lower()=="z"then onButton1Up(mouse)end end)
+        mouse.KeyDown:connect(function(q) if q:lower()=="c"then onButton1Down(mouse)end end)
+        mouse.KeyUp:connect(function(q) if q:lower()=="c"then onButton1Up(mouse)end end)
     end
     onSelected(game.Players.LocalPlayer:GetMouse())
         
