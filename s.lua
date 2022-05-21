@@ -1,5 +1,5 @@
 --Settings
-local sped = 110 -- Speed
+local sped = 160 -- Speed
 local keybind = "c"
 
 
