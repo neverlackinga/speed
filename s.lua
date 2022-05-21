@@ -23,4 +23,3 @@ yes = false
 			game.Players.LocalPlayer.Character.Humz.Name = "Humanoid"
 		end
 	end)
-© 2022 GitHub, Inc.
